@@ -1,11 +1,11 @@
 # nodejs服务端开发（Express+Mysql） #
 ## 项目展示 ##
 
-1、可以在github下载：[https://github.com/htmlk/express](https://github.com/htmlk/express "https://github.com/htmlk/express")
+1、可以在github下载：[https://github.com/ontsol-ltd/market_wc_server](https://github.com/ontsol-ltd/market_wc_server "https://github.com/ontsol-ltd/market_wc_server")
 
 ```
 
-	git clone git@github.com:htmlk/express.git
+	git clone git@github.com/ontsol-ltd/market_wc_server.git
 ```
 
 2、再导入express.sql到数据库，数据库名test，表名：good 结构如下
